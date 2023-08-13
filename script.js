@@ -224,6 +224,17 @@ const games = [
   {      
     link: "https://aleaplicativos.github.io/sharingan/"
   },
+  {link: "https://aleaplicativos.github.io/dripdripdrip/"},
+    {link: "https://aleaplicativos.github.io/lapis3d/"},
+    {link: "https://aleaplicativos.github.io/explosiveatttraction/"},
+    {link: "https://aleaplicativos.github.io/hex/"},      
+    {link: "https://aleaplicativos.github.io/caressedbythesun/"},
+    {link: "https://aleaplicativos.github.io/throughthecrevice/"},
+    {link: "https://aleaplicativos.github.io/justtofly/"},
+    {link: "https://aleaplicativos.github.io/summer2023/"},
+    {link: "https://aleaplicativos.github.io/Stretchy-Baby/"},
+    {link: "https://aleaplicativos.github.io/Sketchy-Creep/"},
+    {link: "https://aleaplicativos.github.io/luminescence/"},
   {      
     link: "https://aleaplicativos.github.io/bolamagnetica/"
   },
