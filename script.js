@@ -235,6 +235,7 @@ const games = [
     {link: "https://aleaplicativos.github.io/Stretchy-Baby/"},
     {link: "https://aleaplicativos.github.io/Sketchy-Creep/"},
     {link: "https://aleaplicativos.github.io/luminescence/"},
+    {link: "https://aleaplicativos.github.io/Online-Guitar/"},
   {      
     link: "https://aleaplicativos.github.io/bolamagnetica/"
   },
